@@ -21,7 +21,7 @@ Your mission? Tap the egg, unlock secret maps, and see what mysterious egg you'l
 2. 📁 Keep the `.exe` file **next to** the `assets/` folder
 3. 🖱️ Double-click `Egg Rush.exe`
 4. ⏫ Start tapping and climb to glory!
-5. 🎥 [Click here to watch a short demo of Egg Rush](assets/video.mp4)
+5. 🎥 ![Egg Rush Demo](assets/video.gif)
 
 
 ---
