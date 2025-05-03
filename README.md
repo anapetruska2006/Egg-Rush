@@ -22,7 +22,7 @@ Your mission? Tap the egg, unlock secret maps, and see what mysterious egg you'l
 3. 🖱️ Double-click `Egg Rush.exe`
 4. ⏫ Start tapping and climb to glory!
 
-   🎥 ![Egg Rush Demo](assets/video.gif)
+    ![Egg Rush Demo](assets/video.gif)
 
 
 ---
